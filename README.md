@@ -1,7 +1,6 @@
-- 👋 Hi, I’m Matthew Truong Nguyen!
-- 👀 I’m interested in software engineering.
-- 🌱 I’m currently learning data structures, algorithms, data science, and more at the University of California, Berkeley.
-- 💞️ I’m looking to collaborate on projects.
+- 👋 Hi, I’m Matthew an underaduate at UC Berkeley double majoring in Computer Science and Data Science!
+- 🌱 I’m currently learning advanced algorithms and machine structures.
+- 💞️ I’m looking to collaborate on fun projects, make friends, and learn new technical skills.
 - 📫 How to reach me: linkedin: www.linkedin.com/in/matthewnguyen0110
 
 <!---
