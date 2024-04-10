@@ -1,7 +1,4 @@
-- 👋 Hi, I’m Matthew! I'm a second-year undergraduate student at UC Berkeley double majoring in Computer Science and Data Science.
-- 🌱 I’m currently learning advanced algorithms and machine structures.
-- 💞️ I’m looking to collaborate on fun projects, make friends, and learn new technical skills.
-- 📫 How to reach me: linkedin: www.linkedin.com/in/matthewnguyen0110
+- 👋 Hi! I'm Matthew, a 3rd-year Computer Science and Data Science double major @ UC Berkeley. I'm passionate about using tech to make our world a better place.
 
 <!---
 matthew-t-nguyen/matthew-t-nguyen is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
